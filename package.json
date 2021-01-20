@@ -1,6 +1,6 @@
 {
     "name": "tailwindcss-nutella",
-    "version": "0.1.0",
+    "version": "1.0.0",
     "description": "Tailwind plugin adding Nutella styles.",
     "main": "index.js",
     "author": "Astrotomic",
