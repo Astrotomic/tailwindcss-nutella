@@ -10,6 +10,9 @@ module.exports = require("tailwindcss/plugin")(function () {
                     brown: '#65381B',
                 },
             },
+            outline: {
+                'nutella-white': ['2px solid #FFFFFF', 0],
+            }
         },
     },
 });
