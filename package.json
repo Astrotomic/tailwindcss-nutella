@@ -1,0 +1,24 @@
+{
+    "name": "tailwindcss-nutella",
+    "version": "0.1.0",
+    "description": "Tailwind plugin adding Nutella styles.",
+    "main": "index.js",
+    "author": "Astrotomic",
+    "license": "MIT",
+    "homepage": "https://github.com/Astrotomic/tailwindcss-nutella",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Astrotomic/tailwindcss-nutella.git"
+    },
+    "keywords": [
+        "tailwindcss",
+        "tailwindcss-plugin",
+        "nutella"
+    ],
+    "bugs": {
+        "url": "https://github.com/Astrotomic/tailwindcss-nutella/issues"
+    },
+    "devDependencies": {
+        "tailwindcss": "^2.0.0"
+    }
+}
